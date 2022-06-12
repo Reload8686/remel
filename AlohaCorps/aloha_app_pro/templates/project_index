@@ -1,0 +1,4 @@
+{% for project in aloha_app_pro %}
+{# Do something... #}
+{% url '<url path name>' <view_function_arguments> %}
+{% endfor %}
